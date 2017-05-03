@@ -2,5 +2,5 @@
 
 Welcome to Xcellerate Portal !!!
 
-![Xcellerate Portal](../../images/cropped-Covance-Labs-Scientific-Blog.jpg)
+![](../../images/cropped-Covance-Labs-Scientific-Blog.jpg)
 
