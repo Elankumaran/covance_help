@@ -3,7 +3,7 @@
 Once you've found an app you wish to download and install, click on the name of
 the app to display its detailed information screen.
 
-![Figure 14.11: Click on an app to read a description and view additional details.](../../images/marketplace-app-information.png)
+![Figure 14.11: Click on an app to read a description and view additional details.](../../../images/marketplace-app-information.png)
 
 This screen offers a number of items to help you learn more about the app. You
 can find the primary information about the app on the left side of the screen,
@@ -72,7 +72,7 @@ that you can log in as an administrator. Once you are logged in as an
 administrator, click the *Admin* menu from the Dockbar and choose *Control
 Panel*.
 
-![Figure 14.12: As an administrator, you can access the Marketplace interface from the Control Panel of a running Liferay portal.](../../images/marketplace-control-panel-entries.png)
+![Figure 14.12: As an administrator, you can access the Marketplace interface from the Control Panel of a running Liferay portal.](../../../images/marketplace-control-panel-entries.png)
  
 Click on either the *Store* or the *Purchased* links beneath the Apps heading.
 Before you can access Marketplace via the Control Panel, you need to associate
@@ -80,11 +80,11 @@ your `liferay.com` login credentials with your local administrator account.
 Enter your `liferay.com` email address and password so your Liferay installation
 can connect to the `liferay.com` Marketplace.
 
-![Figure 14.13: Before you can access Marketplace via the Control Panel you need to link your `liferay.com` credentials with your Liferay instance's administrator account.](../../images/marketplace-login.png)
+![Figure 14.13: Before you can access Marketplace via the Control Panel you need to link your `liferay.com` credentials with your Liferay instance's administrator account.](../../../images/marketplace-login.png)
 
 ---
  
- ![Tip](../../images/01-tip.png) Tip: Any local user with administrative
+ ![Tip](../../../images/01-tip.png) Tip: Any local user with administrative
  privileges can use the Marketplace to browse and install apps from the
  Marketplace, by entering their `liferay.com` credentials in the above login
  screen. This allows multiple administrators to manage the apps installed on the
@@ -110,7 +110,7 @@ You can view and manage all the apps you've purchased by clicking on the
 past, including apps you may have purchased/downloaded while using other Liferay
 installations.
 
-![Figure 14.14: Purchased Apps](../../images/marketplace-purchased-apps-control-panel.png)
+![Figure 14.14: Purchased Apps](../../../images/marketplace-purchased-apps-control-panel.png)
  
 The apps which you downloaded and installed on the currently running instance of
 Liferay are listed as Installed. Apps which you have previously downloaded or

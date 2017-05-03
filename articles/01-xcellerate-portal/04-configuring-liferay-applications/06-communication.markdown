@@ -8,7 +8,7 @@ this communication mechanism. To access this UI, open your portlet's
 configuration window by clicking on the gear icon and selecting
 *Configuration*. Then click on the *Communication* tab. 
 
-![Figure 4.10: You can configure portlets to communicate with each other using public render parameters.](../../images/portlet-communication-tab.png)
+![Figure 4.10: You can configure portlets to communicate with each other using public render parameters.](../../../images/portlet-communication-tab.png)
 
 The screenshot above is for the Wiki portlet, which has six public render
 parameters: categoryId, nodeId, nodeName, resetCur, tag, title. For each of

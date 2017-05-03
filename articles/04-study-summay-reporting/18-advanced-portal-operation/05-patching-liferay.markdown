@@ -1,6 +1,6 @@
 # Patching Liferay [](id=patching-liferay)
 
-![EE Only Feature](../../images/ee-feature-web.png)
+![EE Only Feature](../../../images/ee-feature-web.png)
 
 While we strive for perfection with every release of Liferay Portal, the reality
 of the human condition dictates that releases of the product may not be as

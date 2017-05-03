@@ -10,7 +10,7 @@ interface, as well as to the Control Panel. Both of these are explained in more
 detail later in this book. Site administration in particular can be done
 directly on the page as well, as will be described. 
 
-![Figure 2.1: The Dockbar provides convenient access to Liferay Portal's functions.](../../images/dockbar.png)
+![Figure 2.1: The Dockbar provides convenient access to Liferay Portal's functions.](../../../images/dockbar.png)
 
 
 The My Sites section provides a list of the sites which the logged-in user can

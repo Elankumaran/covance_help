@@ -214,7 +214,7 @@ You can also add your own mappings if you wish.
   click the *Test LDAP Users* button and Liferay will attempt to pull LDAP users
   and match them with their mappings as a preview.
 
-![Figure 16.15: Testing LDAP Users](../../images/server-configuration-testing-ldap-users.jpg)
+![Figure 16.15: Testing LDAP Users](../../../images/server-configuration-testing-ldap-users.jpg)
 
 **Groups:** This section contains settings for mapping LDAP groups to Liferay
 user groups.
@@ -257,7 +257,7 @@ user groups.
   classes are, use an LDAP browser tool such as *Jxplorer* to locate a group and
   view the Object Class attributes stored in LDAP for that group.
 
-![Figure 16.16: Mapping LDAP Groups](../../images/server-configuration-mapping-ldap-groups.jpg)
+![Figure 16.16: Mapping LDAP Groups](../../../images/server-configuration-mapping-ldap-groups.jpg)
 
 Once you've set all your options and tested your connection, click *Save*. From
 here, you can add another LDAP server or set just a few more options that apply
@@ -530,7 +530,7 @@ needs to do is accept the header attribute from Shibboleth and log the user in.
 The Shibboleth plugin adds a Shibboleth tab to the Authentication page of the
 Portal Settings section of the Control Panel.
 
-![Figure 17.1: You can enable/disable Shibboleth authentication for Liferay by navigating to the *Control Panel* &rarr; *Portal Settings* &rrar; *Authentication* &rarr; *Shibboleth*.](../../images/shibboleth.png)
+![Figure 17.1: You can enable/disable Shibboleth authentication for Liferay by navigating to the *Control Panel* &rarr; *Portal Settings* &rrar; *Authentication* &rarr; *Shibboleth*.](../../../images/shibboleth.png)
 
 There are four configuration options:
 
@@ -570,7 +570,7 @@ and take precedence over any options configured via portal properties.
 
 ## SAML
 
-![EE-only](../../images/ee-feature-web.png)
+![EE-only](../../../images/ee-feature-web.png)
 
 SAML is an XML-based open standard data format for exchanging authentication and
 authorization data between parties known as an identity provider and a service
@@ -638,7 +638,7 @@ steps:
     your certificate and private key information, you can view information about
     your certificate or download your certificate.
 
-<!-- The below figure is missing.    After saving your certificate and private key information, you can view information about your certificate or download your certificate.](../../images/saml-admin.png) -->
+<!-- The below figure is missing.    After saving your certificate and private key information, you can view information about your certificate or download your certificate.](../../../images/saml-admin.png) -->
 
 5. Finally, after you've saved your certificate and private key information,
    check the *Enabled* box at the top of the General tab and click *Save*.
@@ -734,7 +734,7 @@ the Service Provider tab of the SAML Admin Control Panel portlet.
 
 ---
 
- ![Note](../../images/tip.png) **Note:** The previous two sections explained how
+ ![Note](../../../images/tip.png) **Note:** The previous two sections explained how
  to use the SAML portlet's Control Panel interface to configure Liferay as an
  Identity Provider and as a Service Provider. It's possible to configure Liferay
  as an Identity Provider or as a Service Provider entirely through the

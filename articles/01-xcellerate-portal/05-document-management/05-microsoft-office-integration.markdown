@@ -12,7 +12,7 @@ and click the *Open in MS Office* link. Liferay launches Microsoft Office
 and prompts you to log in using your Portal credentials. Once logged in, the
 file opens in your Microsoft Office application. 
 
-![Figure 5.7: Open Microsoft Office files from within your Internet Explorer browser by clicking the *Open in MS Office* link.](../../images/05-open-in-MS-office.png)
+![Figure 5.7: Open Microsoft Office files from within your Internet Explorer browser by clicking the *Open in MS Office* link.](../../../images/05-open-in-MS-office.png)
 
 <!-- Needs to be replaced for 6.2 -->
 <!-- This feature only works for 32 bit browsers/Microsoft Office. -->
@@ -42,7 +42,7 @@ Simply select *File*&rarr; *Open* in Word and enter
 `http://localhost:8080/sharepoint/` in the file name field. Click *Open* and log
 in using your Portal credentials.
 
-![Figure 5.8: Enter the URL of your `sharepoint` location on Liferay to access Documents and Media.](../../images/office-path.png)
+![Figure 5.8: Enter the URL of your `sharepoint` location on Liferay to access Documents and Media.](../../../images/office-path.png)
 
 In the list of folders displayed, navigate to *guest* &rarr; *document_library*
 and select *All Files* to see your Documents and Media files.

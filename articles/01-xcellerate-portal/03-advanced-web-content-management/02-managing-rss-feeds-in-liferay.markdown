@@ -22,7 +22,7 @@ administrators can also use the Web Content administration portlet to manage
 their site's RSS feeds. Click *Manage* &rarr; *Feeds* if you'd like to add,
 edit, or delete RSS feeds.
 
-![Figure 3.7: Clicking *Manage* &rarr; *Feeds* from the Control Panel's Web Content administration portlet opens a popup window which displays your site's RSS feeds. You can add or edit RSS feeds, configure their permissions, or delete them.](../../images/web-content-manage-feeds.png)
+![Figure 3.7: Clicking *Manage* &rarr; *Feeds* from the Control Panel's Web Content administration portlet opens a popup window which displays your site's RSS feeds. You can add or edit RSS feeds, configure their permissions, or delete them.](../../../images/web-content-manage-feeds.png)
 
 Click the *Add Feed* button to add a new feed. You need to enter a name and
 select a target page for the feed. A feed's target page serves two purposes:
@@ -44,7 +44,7 @@ select a target page for the feed. A feed's target page serves two purposes:
    target page. When users click on such links for "orphaned" articles, the full
    content of the "orphaned" article is displayed on the target page.
 
-![Figure 3.8: To create a new RSS feed, you only need to specify a name and a target page. Of course, you can also configure other features of the feed such as its permissions, web content constraints, and presentation settings.](../../images/web-content-new-feed.png)
+![Figure 3.8: To create a new RSS feed, you only need to specify a name and a target page. Of course, you can also configure other features of the feed such as its permissions, web content constraints, and presentation settings.](../../../images/web-content-new-feed.png)
 
 To specify a target page, you need to enter the target page's friendly URL. Note
 that friendly URLs do not include the host name. For example, the friendly URL
@@ -117,7 +117,7 @@ Once you've added the RSS portlet to a page, open the portlet's Configuration
 popup window by clicking on the gear icon at the top right corner of the
 portlet and selecting *Configuration*.
 
-![Figure 3.9: The RSS portlet's configuration window lets you choose feeds to be displayed and allows you to customize the display settings.](../../images/rss-portlet-config.png)
+![Figure 3.9: The RSS portlet's configuration window lets you choose feeds to be displayed and allows you to customize the display settings.](../../../images/rss-portlet-config.png)
 
 By default, the RSS portlet displays two feeds. In the Feeds section, click on
 the green plus sign to add a new feed or on the red minus sign to remove a feed.
@@ -146,7 +146,7 @@ in the RSS portlet either above all of the feeds or below all of the feeds. You
 can use these to provide an introduction, description, or footnotes about the
 feeds that you've selected to be displayed.
 
-![Figure 3.10: By default, the RSS portlet is configured to display feeds from Liferay Community Blogs, Yahoo News, and the New York Times. This image displays what the Liferay Community Blogs feed looks like in the RSS portlet.](../../images/rss-portlet-default-view.png)
+![Figure 3.10: By default, the RSS portlet is configured to display feeds from Liferay Community Blogs, Yahoo News, and the New York Times. This image displays what the Liferay Community Blogs feed looks like in the RSS portlet.](../../../images/rss-portlet-default-view.png)
 
 Now that we've discussed how to create, manage, and use RSS feeds, let's examine
 site templates and page templates. Site templates are a powerful tool for

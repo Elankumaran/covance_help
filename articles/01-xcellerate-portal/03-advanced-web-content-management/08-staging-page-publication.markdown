@@ -114,7 +114,7 @@ Next, click on *Site Settings* in the left menu and then on *Staging* listed
 under the Advanced tab. Select *Remote Live* under Staging Type and additional
 options appear.
 
-![Figure 3.20: After your remote Liferay server and local Liferay server have been configured to communicate with each other, you have to specify a few Remote Live connection settings.](../../images/remote-live-staging-settings.png)
+![Figure 3.20: After your remote Liferay server and local Liferay server have been configured to communicate with each other, you have to specify a few Remote Live connection settings.](../../../images/remote-live-staging-settings.png)
 
 First, enter your remote Liferay server's IP address into the Remote Host/IP
 field. If the remote Liferay server is a cluster, you can set the Remote Host/IP
@@ -135,7 +135,7 @@ your remote (live) Liferay server.
 
 ---
 
- ![Tip](../../images/01-tip.png) **Tip:** In general, remote staging should be
+ ![Tip](../../../images/01-tip.png) **Tip:** In general, remote staging should be
  enabled for a site as early as possible. It's generally *not* a good idea to
  add gigabytes of data into Liferay's CMS and then decide to turn on remote
  staging.  There's an existing issue that limits Liferay to less than 2G of data
@@ -231,7 +231,7 @@ it's important to quickly publish a fix. If you're following the Lunar Resort
 example, check *Enabled On Public Pages* to enable page versioning for the
 Lunar Resort site and then click *Save*.
 
-![Figure 3.21: You can decide to use versioning and choose what content should be staged.](../../images/04-web-content-staging.png)
+![Figure 3.21: You can decide to use versioning and choose what content should be staged.](../../../images/04-web-content-staging.png)
 
 Before you activate staging, you can choose which portlets' data should be
 copied to staging. We'll cover many of the collaboration portlets listed under
@@ -262,7 +262,7 @@ staging. If you're following along with the Lunar Resort example, navigate back
 to the News and Events page and click on *Staging* to get your page editing
 capabilities back.
 
-![Figure 3.22: You can see the new staging options added to the top of your screen.](../../images/04-web-content-staging-live-page.png)
+![Figure 3.22: You can see the new staging options added to the top of your screen.](../../../images/04-web-content-staging-live-page.png)
 
 Add the Bookmarks portlet and then click on *Live* from the Dockbar. Notice that
 the Bookmarks portlet isn't there. That's because you've staged a change to the
@@ -318,7 +318,7 @@ which types of content are published when you publish to the live site). If
 workflow is enabled for any new resource, the resource needs to go through the
 workflow process before it can be published to the live site.
 
-![Figure 3.23: Ready to publish to the live site.](../../images/04-web-content-staging-publish.png)
+![Figure 3.23: Ready to publish to the live site.](../../../images/04-web-content-staging-publish.png)
 
 Web content tends to be frequently updated, often more so than other kinds of
 content. For some web content articles, this can result in very high numbers of
@@ -333,7 +333,7 @@ Content heading and find the section for Web Content. You can click the *Change*
 button to select/deselect options to publish dealing with your new Web Content
 instance.
 
-![Figure 3.24: Click the *Change* button and uncheck the version history box to only publish the latest approved version of web content articles that have multiple versions.](../../images/web-content-version-history-box.png)
+![Figure 3.24: Click the *Change* button and uncheck the version history box to only publish the latest approved version of web content articles that have multiple versions.](../../../images/web-content-version-history-box.png)
 
 Liferay 6.2 also added a portal property,
 `journal.publish.version.history.by.default`, that sets the default behavior. By
@@ -439,7 +439,7 @@ For example, we could create a page variation called Thanksgiving for the News
 and Events page inside of the Christmas variation and another one called
 Christmas Day to display different content on those particular days.
 
-![Figure 3.25: This is an example of a Thanksgiving Page Variation.](../../images/04-web-content-branch-thanksgiving.png)
+![Figure 3.25: This is an example of a Thanksgiving Page Variation.](../../../images/04-web-content-branch-thanksgiving.png)
 
 Another powerful feature is the possibility of *merging* Site Pages Variations.
 To merge two Site Pages Variations, you need to go to the Manage Site Pages

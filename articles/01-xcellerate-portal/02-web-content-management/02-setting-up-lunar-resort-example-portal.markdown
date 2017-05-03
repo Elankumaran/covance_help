@@ -17,7 +17,7 @@ portal like the name and mail domain, go to the Control Panel and select *Portal
 Settings* under the Configuration heading. You could set up the configuration
 for the Lunar Resort as follows.
 
-![Figure 2.2: You can change the portal settings by navigating to the Control Panel and selecting *Portal Settings*.](../../images/04-web-content-changing-settings.png)
+![Figure 2.2: You can change the portal settings by navigating to the Control Panel and selecting *Portal Settings*.](../../../images/04-web-content-changing-settings.png)
 
 You can also customize the logo in the top left corner of every page by
 selecting *Display Settings* under the *Miscellaneous* tab on the panel to the

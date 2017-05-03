@@ -64,7 +64,7 @@ sites or would like to add content globally, navigate to the Control Panel and
 select *Sites*. From this window, you can change the scope of where you'd like
 to view, edit, or create content.
 
-![Figure 2.14: You can choose where to create content by navigating to the Control Panel and selecting *Sites*.](../../images/sites-selector.png)
+![Figure 2.14: You can choose where to create content by navigating to the Control Panel and selecting *Sites*.](../../../images/sites-selector.png)
 
 Once you have the Lunar Resort site selected, click on the *Web Content* link in
 Site Administration. You'll see a folder structure containing all of the web
@@ -74,7 +74,7 @@ with lots of content and web content articles, it can be very useful to use
 folders to group certain kinds of web content articles together. Click *Add*
 &rarr; *Basic Web Content* to create a new web content article.
 
-![Figure 2.15: Click *Add* &rarr; *Basic Web Content* to create a new simple web content article. To create a new web content article based on an existing web content structure, click *Add* and then click on the name of the structure you'd like to use.](../../images/web-content-add-menu.png)
+![Figure 2.15: Click *Add* &rarr; *Basic Web Content* to create a new simple web content article. To create a new web content article based on an existing web content structure, click *Add* and then click on the name of the structure you'd like to use.](../../../images/web-content-add-menu.png)
 
 Existing web content structures also appear in the *Add* menu. This provides
 users with shortcuts for creating specific kinds of web content articles. For
@@ -121,7 +121,7 @@ different style, as demonstrated in the screenshot below. You can also add
 bullets, numbering, links to another site or custom images. You can even add an
 emoticon. Go ahead and add a smiley face to the end of your announcement.
 
-![Figure 2.16: View your content changes directly in the editor.](../../images/04-web-content-example2.png)
+![Figure 2.16: View your content changes directly in the editor.](../../../images/04-web-content-example2.png)
 
 The WYSIWYG editor is a flexible tool that gives you the ability to add text,
 images, tables, links and more. Additionally, you can modify the display to
@@ -134,7 +134,7 @@ switch from the WYSIWYG view by clicking the *Source* button. From the Source
 view, you can view the HTML content of your web content. If you wish, can edit
 the HTML directly.
 
-![Figure 2.17: If you've installed and enabled Xuggler from the *Server Administration* &rarr; *External Tools* section of the Control Panel, you can add audio and video to your web content!](../../images/web-content-video.png)
+![Figure 2.17: If you've installed and enabled Xuggler from the *Server Administration* &rarr; *External Tools* section of the Control Panel, you can add audio and video to your web content!](../../../images/web-content-video.png)
 
 You can integrate Liferay with external services to enable additional
 functionality. For example, if you navigate to the Control Panel, click on
@@ -158,7 +158,7 @@ listen the embedded multimedia!
 The right side of the New Web Content form provides options for customizing your
 web content.
 
-![Figure 2.18: New web content can be customized in various ways using the menu on the right.](../../images/wcm-menu.png)
+![Figure 2.18: New web content can be customized in various ways using the menu on the right.](../../../images/wcm-menu.png)
 
 **Abstract:** lets you to create a brief summary of the web content. You can
 also pair the text with a small image.
@@ -231,7 +231,7 @@ category. You can connect your content to a Blogs Entry, Message Boards Message,
 Web Content, Calendar Event, Bookmarks Entry, Documents and Media Document, and
 a Wiki Page.
 
-![Figure 2.19: This blog entry has links to three Related Assets: one web content and two message board entries.](../../images/related-assets-link.png)
+![Figure 2.19: This blog entry has links to three Related Assets: one web content and two message board entries.](../../../images/related-assets-link.png)
 
 You'll learn how to publish links to related assets using the Related Assets
 portlet in the *Defining content relationships* section of chapter 5.
@@ -267,7 +267,7 @@ the Lunar Resort, it's time to display it. First, add the *Web Content Display*
 portlet to our Welcome page by selecting the *Add* button from the left palette
 and selecting the *Applications* tab.
 
-![Figure 2.20: Adding the Web Content Display Portlet](../../images/add-web-content-display.png)
+![Figure 2.20: Adding the Web Content Display Portlet](../../../images/add-web-content-display.png)
 
 Once the portlet appears, drag it to the position on the page where you want
 your content to appear. You can have as many Web Content Display portlets on a
@@ -285,7 +285,7 @@ all the options). You can also show the available locales for your content. If
 you're working on the page for a particular language, you can select the
 translation of your content that goes with your locale.
 
-![Figure 2.21: Publishing web content is a snap. At a minimum, you only have to select the content you wish to publish. You can also enable lots of optional features to let your users interact with your content.](../../images/04-web-content-choosing-web-content.png)
+![Figure 2.21: Publishing web content is a snap. At a minimum, you only have to select the content you wish to publish. You can also enable lots of optional features to let your users interact with your content.](../../../images/04-web-content-choosing-web-content.png)
 
 If you have enabled OpenOffice.org integration with your portal, you can also
 enable document conversion for your content. This gives your users the ability
@@ -342,7 +342,7 @@ Content Display portlet, select the *Edit* button to the lower left of the
 portlet. This launches the WYSIWYG editor and from there you can make any
 necessary changes.
 
-![Figure 2.22: The *Edit*, *Select Web Content*, and *Add* buttons appear when hovering over their icons.](../../images/web-content-display-icons.png)
+![Figure 2.22: The *Edit*, *Select Web Content*, and *Add* buttons appear when hovering over their icons.](../../../images/web-content-display-icons.png)
 
 When you publish updates to a web content that's already being displayed
 somewhere on your portal (e.g., in a Web Content Display portlet or an Asset

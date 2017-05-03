@@ -19,7 +19,7 @@ functionality of your portal application must reside in its portlets.
 
 ---
 
- ![Tip](../../images/tip.png) **Tip:** Liferay 4.4.2 and below support the
+ ![Tip](../../../images/tip.png) **Tip:** Liferay 4.4.2 and below support the
  Portlet 1.0 standard: JSR-168. Liferay 5.0 and above support the Portlet 2.0
  standard: JSR-286. You cannot run Portlet 2.0 portlets in Liferay 4.4.2, but
  because the Portlet 2.0 standard is backwards-compatible, portlets written to
@@ -81,7 +81,7 @@ infrastructure that Liferay provides.
 
 ## Themes
 
-![Figure 14.15: Envision Theme from Liferay's Theme Repository](../../images/marketplace-envision-theme.png)
+![Figure 14.15: Envision Theme from Liferay's Theme Repository](../../../images/marketplace-envision-theme.png)
 
 Themes are hot deployable plugins which can completely transform the look and
 feel of the portal. Most organizations have their own look and feel standards
@@ -96,7 +96,7 @@ than starting a theme from scratch. You can learn more about theme development
 in [*Liferay in Action*](http://manning.com/sezov) or the [Liferay Development
 Guide](https://www.liferay.com/documentation/liferay-portal/6.2/development).
 
-![Figure 14.16: Murali Theme from Liferay's Theme Repository](../../images/marketplace-murali-theme.png)
+![Figure 14.16: Murali Theme from Liferay's Theme Repository](../../../images/marketplace-murali-theme.png)
 
 ## Layout Templates
 
@@ -137,7 +137,7 @@ specific file extension for web application bundles but they typically have a
 
 ---
 
- ![Tip](../../images/tip.png) **Note:** Liferay 6.2's OSGi runtime is
+ ![Tip](../../../images/tip.png) **Note:** Liferay 6.2's OSGi runtime is
  experimental and unsupported. It should be considered a technology preview at
  this time. 
 
@@ -210,7 +210,7 @@ templates: if a theme or layout template has been installed, then it's available
 for use. The Theme and Layout Template Plugins tabs of the Plugins Configuration
 section directly display which portal roles can access them.
 
-![Figure 14.17: Plugins Installation Portlet Tab Default View](../../images/marketplace-plugins-installation-portlet-tab.png)
+![Figure 14.17: Plugins Installation Portlet Tab Default View](../../../images/marketplace-plugins-installation-portlet-tab.png)
 
 It's easy to browse through the lists of installed plugins since the plugins are
 listed alphabetically. You can also change the number of items per page and
@@ -256,7 +256,7 @@ plugin to your Liferay Portal. Use the *File Upload* option to browse to and
 install from a local `.lpkg` or `.war` file. Use the *URL* option to install
 from a remote `.lpkg` or `.war` file.
 
-![Figure 14.18: Installing a Plugin Manually](../../images/marketplace-plugin-installer-upload-file.png)
+![Figure 14.18: Installing a Plugin Manually](../../../images/marketplace-plugin-installer-upload-file.png)
 
 That's all the information the App Manager needs in order to deploy your
 portlet, theme, layout template, hook, or web plugin. Click the *Install* button
@@ -362,7 +362,7 @@ Let's take a look at each of these factors.
 
 ---
 
- ![Tip](../../images/tip.png) **Tip:** This applies to Liferay versions prior to
+ ![Tip](../../../images/tip.png) **Tip:** This applies to Liferay versions prior to
  version 4.3.5. Liferay versions above 4.3.5 are able to auto detect the type of
  server it is running on, which makes things a lot easier. If you are running a
  newer version of Liferay, you can skip this section. If you are upgrading from

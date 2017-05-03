@@ -39,7 +39,7 @@ are automatically copied to sites based on that template.
 
 ---
 
-![tip](../../images/01-tip.png) **Tip:** If you want to publish a piece of web
+![tip](../../../images/01-tip.png) **Tip:** If you want to publish a piece of web
 content to many sites and ensure modifications are applied to all, don't use
 site template content for that purpose. Instead, place the content in the global
 scope and then reference it from a *Web Content Display* application in each
@@ -63,7 +63,7 @@ associated with your template.
 The following figure displays the form shown when editing the *Community Site*
 template's settings:
 
-![Figure 3.11: Site templates have several configurable options including the option to allow site administrators to modify pages accociated with the site template.](../../images/01-site-templates.png)
+![Figure 3.11: Site templates have several configurable options including the option to allow site administrators to modify pages accociated with the site template.](../../../images/01-site-templates.png)
 
 By default, the following site templates are provided:
 
@@ -116,7 +116,7 @@ when you clicked *View Pages*. Changes to site templates are automatically saved
 as you make them, so you don't need to return to the Site Templates page of the
 Control Panel and select *Save*.
 
-![Figure 3.12: You can see the name of the site template you're currently editing.](../../images/editing-site-template.png)
+![Figure 3.12: You can see the name of the site template you're currently editing.](../../../images/editing-site-template.png)
 
 Next, let's use our site template to create our Engineering, Marketing and Legal
 sites. Go to the Control Panel and click on *Sites*. Then click *Add* &rarr;
@@ -205,7 +205,7 @@ After you've squared away your conflict, navigate to *Site Administration*
 &rarr; *Configuration* &rarr; *Site Settings* and click the *Reset and
 Propagate* button.
 
-![Figure 3.13: You can reset and propagate the merge fail count by navigationg to *Site Settings*.](../../images/reset-and-propagate.png)
+![Figure 3.13: You can reset and propagate the merge fail count by navigationg to *Site Settings*.](../../../images/reset-and-propagate.png)
 
 The *Reset and Propagate* button resets the merge fail count and attempts to
 propagate your site changes again. This process gives the portal administrator

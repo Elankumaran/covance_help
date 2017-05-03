@@ -7,7 +7,7 @@ it's possible to select a theme, a layout template, to add portlets to the page
 and to configure portlet preferences. Both sites and site templates can utilize
 page templates for creating new pages.
 
-![Figure 3.14: The Blog page template is already available for use along with the Content Display Page and Wiki page templates.](../../images/server-configuration-page-templates.png)
+![Figure 3.14: The Blog page template is already available for use along with the Content Display Page and Wiki page templates.](../../../images/server-configuration-page-templates.png)
 
 You can edit or delete existing page templates, configure their permissions, or
 add new page templates. By default, three sample page templates are provided:
@@ -51,7 +51,7 @@ page templates when creating a new page. If you want any user who can create a
 page to be able to use the page template, just check the *View* permission for
 the *User* role.
 
-![Figure 3.15: When creating a new site page, you're given options for the page template and page type.](../../images/selecting-page-template.png)
+![Figure 3.15: When creating a new site page, you're given options for the page template and page type.](../../../images/selecting-page-template.png)
 
 To use your template to create a new page, just navigate to a page over which
 you have site administrator privileges and select *Add* &rarr; *Page* from the
@@ -61,7 +61,7 @@ you're on your desired site and navigate to *Admin* &rarr; *Site
 Administration*. Then click on *Site Pages* &rarr; *Add Page*, type a name,
 select your template from the drop down menu, and click *Add Page* to finish.
 
-![Figure 3.16: You can choose whether or not to automatically apply page template changes to live pages.](../../images/automatic-application-page-template-changes.png)
+![Figure 3.16: You can choose whether or not to automatically apply page template changes to live pages.](../../../images/automatic-application-page-template-changes.png)
 
 Note that by default, when a site administrator creates pages based on a page
 template, any future changes to the template are automatically propagated to

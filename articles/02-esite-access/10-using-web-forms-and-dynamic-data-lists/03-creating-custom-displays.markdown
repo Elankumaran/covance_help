@@ -28,7 +28,7 @@ unwanted fields from view and save when ready.
 
 ---
 
- ![Tip](../../images/tip.png) Note: Form templates were called *detail
+ ![Tip](../../../images/tip.png) Note: Form templates were called *detail
  templates* prior to Liferay 6.2.
 
 ---
@@ -64,7 +64,7 @@ give you the power to do all this and more.
 
 ---
 
- ![Tip](../../images/tip.png) Note: Display templates were called *list
+ ![Tip](../../../images/tip.png) Note: Display templates were called *list
  templates* prior to Liferay 6.2.
 
 ---
@@ -190,7 +190,7 @@ Once you've typed the template's source into the editor window, click *Save* to
 save the display template. With the display template selected, your list display
 can now be a summary of tasks as shown below. 
 
-![Figure 10.7: This display template provides a list of users who've volunteered along with the tasks for which they volunteered.](../../images/05-ddl-list-template.png)
+![Figure 10.7: This display template provides a list of users who've volunteered along with the tasks for which they volunteered.](../../../images/05-ddl-list-template.png)
 
 All the knowledge you have accrued through building out your award-winning
 content can be brought to bear in display templates. With the full power of
@@ -220,7 +220,7 @@ Kaleo workflow plugin, just copy the plugin `.war` file to the deploy folder of
 you application server. Once workflow is installed, you have a new option when
 creating a list:
 
-![Figure 10.8: Once the workflow plugin has been installed, you can choose a workflow when creating a new dynamic data list.](../../images/05-ddl-add-workflow.png)
+![Figure 10.8: Once the workflow plugin has been installed, you can choose a workflow when creating a new dynamic data list.](../../../images/05-ddl-add-workflow.png)
 
 Choose the workflow you'd like to use. This requires that every record must pass
 through the workflow process. Now if you need to preview or edit entries as
@@ -228,7 +228,7 @@ they're coming in, it's easy to integrate it into your daily workflow.
 
 ### Creating a Kaleo Form 
 
-![EE Only Feature](../../images/ee-feature-web.png)
+![EE Only Feature](../../../images/ee-feature-web.png)
 
 Kaleo Forms EE is an app that provides you with greater control over the list
 creation and entry process. The Kaleo Forms EE app is available from Liferay
@@ -277,7 +277,7 @@ To build a list in Kaleo Forms with a workflow:
 
 6. Click *Save* to save your process.
 
-![Figure 10.9: When using the Kaleo Forms portlet to create a new workflow process, you need to complete this form.](../../images/05-ddl-kaleo-forms-new-process.png)
+![Figure 10.9: When using the Kaleo Forms portlet to create a new workflow process, you need to complete this form.](../../../images/05-ddl-kaleo-forms-new-process.png)
 
 While the form looks complicated, it's easy to complete. There are a few pieces
 that make up a process and when you click on one, you can browse a list and
@@ -323,7 +323,7 @@ selection screen. Simply choose *Add Workflow* and a Workflow Designer screen
 appears allowing you to define a new workflow by dragging elements in a flow
 chart.
 
-![Figure 10.10: You'll see this form when editing or creating a new workflow with Kaleo Designer](../../images/05-kaleo-forms-kaleo-designer.png)
+![Figure 10.10: You'll see this form when editing or creating a new workflow with Kaleo Designer](../../../images/05-kaleo-forms-kaleo-designer.png)
 
 We'll keep ours simple; just choose *Single Approver Definition*. This gives us
 a starting point (entry creation) and a *review* task, which we can use to add
@@ -348,7 +348,7 @@ From the view to assign forms to tasks:
 
 4. Click *Save* to save the form assignment.
 
-![Figure 10.11: When creating or editing a Kaleo process, click *Assign* under Workflow Task Forms. Then click on a task, such as review, from the graphical view. Look for the *Forms* property in the Settings tab; you can use this property to assign a form template to a task.](../../images/05-kaleo-forms-task-form.png)
+![Figure 10.11: When creating or editing a Kaleo process, click *Assign* under Workflow Task Forms. Then click on a task, such as review, from the graphical view. Look for the *Forms* property in the Settings tab; you can use this property to assign a form template to a task.](../../../images/05-kaleo-forms-task-form.png)
 
 You can assign forms to as many tasks as you need until you're satisfied with
 the workflow. After this stage, save the process and it's ready to be used in
@@ -356,13 +356,13 @@ Kaleo Forms.
 
 ### Using a Kaleo Form 
 
-![EE Only Feature](../../images/ee-feature-web.png)
+![EE Only Feature](../../../images/ee-feature-web.png)
 
 Once you have a new Kaleo Form process, you can add new entries through the
 Summary tab in Kaleo Forms. Once the form is filled out and submitted, it enters
 the workflow you selected for the process.
 
-![Figure 10.12: When adding a new entry to a process, you're presented with the process's configured form template for the initial display.](../../images/05-kaleo-form-new-entry.png)
+![Figure 10.12: When adding a new entry to a process, you're presented with the process's configured form template for the initial display.](../../../images/05-kaleo-form-new-entry.png)
 
 After you have created an entry, (depending on the configured workflow) the next
 task in the workflow may have an additional form to complete. If so, there will
@@ -376,7 +376,7 @@ After the new entry has worked its way through the entire workflow, it is added
 to the data set collected. The owner of that data set (who created the Kaleo
 process) can view and edit the entries collected.
 
-![To view an entry submitted to a list via workflow, click on *My Completed Requests* from the Kaleo Forms portlet's Summary tab, then click on the name of the entry you'd like to view.](../../images/05-kaleo-forms-view.png)
+![To view an entry submitted to a list via workflow, click on *My Completed Requests* from the Kaleo Forms portlet's Summary tab, then click on the name of the entry you'd like to view.](../../../images/05-kaleo-forms-view.png)
 
 If you are a Listie, or a `list.it` developer, you're now prepared to show your
 lists to the world. That is, in fact, the reason you created `list.it` in the

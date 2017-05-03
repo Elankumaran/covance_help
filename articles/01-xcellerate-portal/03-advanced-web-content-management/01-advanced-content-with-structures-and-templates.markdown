@@ -78,7 +78,7 @@ detail templates and list templates, please refer to chapter 10 on [Using Web
 Forms and Dynamic Data
 Lists](https://www.liferay.com/documentation/liferay-portal/6.2/user-guide/-/ai/using-web-forms-and-dynamic-data-lists-liferay-portal-6-2-user-guide-10-en).
 
-![Figure 3.1: You can access the Manage Structures interface by clicking *Manage* &rarr; *Structures* from the Web Content page.](../../images/manage-structures.png)
+![Figure 3.1: You can access the Manage Structures interface by clicking *Manage* &rarr; *Structures* from the Web Content page.](../../../images/manage-structures.png)
 
 The second way to access the Manage Structures interface is directly from the
 web content article WYSIWYG editor. Click *Add* &rarr; *Basic Web Content* from
@@ -117,7 +117,7 @@ action, visit the *Document Management* chapter's *WebDAV access* chapter.
 
 ---
 
- ![Note](../../images/01-tip.png) **Note:** Some operating systems require a
+ ![Note](../../../images/01-tip.png) **Note:** Some operating systems require a
  WebDAV server to be class level 2 before (i.e., to support file locking) before
  allowing files to be read or written. For Liferay 6.2, the Documents and Media
  library was upgraded to class level 2 but Web Content structures and templates
@@ -136,7 +136,7 @@ method is for the more experienced developers.
 
 Take a moment to add, delete, and rearrange different elements.
 
-![Figure 3.2: The structure editor gives you many options to customize your Web Content.](../../images/04-web-content-structure-editor.png)
+![Figure 3.2: The structure editor gives you many options to customize your Web Content.](../../../images/04-web-content-structure-editor.png)
 
 Liferay supports the following fields in structures:
 
@@ -271,7 +271,7 @@ the structures list. Find the *Actions* button for the desired structure and
 select *Edit Default Values* from the menu to view a window like the one below.
 This form allows you to manage the structure settings.
 
-![Figure 3.3: You can edit default values via the *Actions* button of the Manage Structures interface.](../../images/structure-actions.png)
+![Figure 3.3: You can edit default values via the *Actions* button of the Manage Structures interface.](../../../images/structure-actions.png)
 
 Every new web content you create with this structure is preloaded with the
 data you inserted. Next, let's demonstrate assigning permissions.
@@ -286,7 +286,7 @@ be able to create structures and templates. Users, of course, should be able to
 view structures. The *View* permission enables them to make use of the
 structures to create content.
 
-![Figure 3.4: You're able to assign structure permissions via the *Actions* button.](../../images/04-web-content-structure-permissions.png)
+![Figure 3.4: You're able to assign structure permissions via the *Actions* button.](../../../images/04-web-content-structure-permissions.png)
 
 You can grant or deny permissions based on Roles and this is the recommended way
 to handle permissions for structures.
@@ -409,7 +409,7 @@ the abstract and the link created above, which sets the `read_more` parameter.
 
 When this template is rendered, it looks something like this:
 
-![Figure 3.5: The initial and expanded views for the Lunar Resort News Article. After Clicking *Read More*, you're able to read the full text body.](../../images/03-adv-web-content-structures-templates-completed.png)
+![Figure 3.5: The initial and expanded views for the Lunar Resort News Article. After Clicking *Read More*, you're able to read the full text body.](../../../images/03-adv-web-content-structures-templates-completed.png)
 
 <!--Figure needs to be reworked-->
 
@@ -440,7 +440,7 @@ placed, and click the variable name. If the variable name doesn't give you
 sufficient information on the variable's functionality, you can hover your
 pointer over it for a more detailed description.
 
-![Figure 3.6: You can hover your pointer over a variable for a more detailed description.](../../images/04-web-content-templates-create.png)
+![Figure 3.6: You can hover your pointer over a variable for a more detailed description.](../../../images/04-web-content-templates-create.png)
 
 The interactive template editor is available for the FreeMarker and Velocity
 languages. Depending on which language you select, the variable content changes

@@ -19,7 +19,7 @@ and *User Groups* can be found in the *Site Memberships* portlet, which is also
 located in the Users tab. You can visit the *Management* chapter for more
 information on how these site memberships. Finally, click the *Add Team* button.
 
-![Figure 3.26: Creating teams within your site helps your users demonstrate teamwork and collaboration.](../../images/01-creating-a-team.png)
+![Figure 3.26: Creating teams within your site helps your users demonstrate teamwork and collaboration.](../../../images/01-creating-a-team.png)
 
 After you've clicked the *Add Team* button and entered a name and a description,
 click *Save*. Your new team will appear in the list. To add members, simply

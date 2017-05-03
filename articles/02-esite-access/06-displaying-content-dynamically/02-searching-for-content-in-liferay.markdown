@@ -58,7 +58,7 @@ appropriate portlet. For example, if you'd like to search for the term *Liferay*
 among wiki articles, enter the term *Liferay* into the Wiki portlet's search
 bar. 
 
-![Figure 6.7: When using the Wiki portlet's search bar to search for *Liferay*, wiki articles, comments, and attachments containing the word *Liferay* are returned.](../../images/wiki-search.png)
+![Figure 6.7: When using the Wiki portlet's search bar to search for *Liferay*, wiki articles, comments, and attachments containing the word *Liferay* are returned.](../../../images/wiki-search.png)
 
 Wiki articles, comments, and text file attachments containing the word *Liferay*
 are returned as search results. The search results clearly show whether an
@@ -75,7 +75,7 @@ To get started using faceted search, drop the Search portlet on a page and
 search for something. You'll see a page with results on the right and a
 collection of *facets* on the left. 
 
-![Figure 6.8: The first set of facets is content types. You can drill down to specific types of content that contain the search terms you entered.](../../images/faceted-search-1.png)
+![Figure 6.8: The first set of facets is content types. You can drill down to specific types of content that contain the search terms you entered.](../../../images/faceted-search-1.png)
 
 Facets allow users of the Search portlet to select criteria with which to filter
 search results. A facet is a combination of the information about a specific
@@ -103,7 +103,7 @@ memory is more foggy than that, or you're searching for something you're not
 sure is actually there, then the asset tags or asset categories facets may be
 more helpful to you. 
 
-![Figure 6.9: Asset tag facets let you see how many assets contain the terms for which you searched *and* contain certain tags. Click on a specific tag to narrow down the list of search results to those to which the tag has been applied.](../../images/faceted-search-2.png)
+![Figure 6.9: Asset tag facets let you see how many assets contain the terms for which you searched *and* contain certain tags. Click on a specific tag to narrow down the list of search results to those to which the tag has been applied.](../../../images/faceted-search-2.png)
 
 For example, if you searched for a wireless phone, you might be more interested
 in content that has your search terms in it *and* has also been tagged by users.
@@ -116,7 +116,7 @@ search results.
 To drill down into the search, click on a facet to add it to the filter list.
 The results to the right are refined by the selected facets. 
 
-![Figure 6.10: Drilling down creates a list of what you selected at the top of the screen.](../../images/05-faceted-search-drill-down-1.png)
+![Figure 6.10: Drilling down creates a list of what you selected at the top of the screen.](../../../images/05-faceted-search-drill-down-1.png)
 
 Here, we've refined the search to only show documents. We've also selected one
 of the tags, *cool*, to refine the search. The facets we've selected, *Document*
@@ -126,7 +126,7 @@ the two facets we selected weren't enough to filter our search into a small
 enough list to sort through. In this case, we could further refine the search by
 selecting another facet, as below. 
 
-![Figure 6.11: Selecting another facet further refines the search.](../../images/05-faceted-search-drill-down-2.png)
+![Figure 6.11: Selecting another facet further refines the search.](../../../images/05-faceted-search-drill-down-2.png)
 
 Now we've also selected the *Music* category, which reduces the list of search
 hits on the right. In this way, you can interactively tweak the search results
@@ -235,7 +235,7 @@ Next, we'll look at how the Search portlet can be configured.
 As with Liferay's other portlets, you can configure the Search portlet via the
 configuration screen, which looks like the below illustration. 
 
-![Figure 6.12: Basic search configuration is pretty straightforward.](../../images/05-faceted-search-configuration.png)
+![Figure 6.12: Basic search configuration is pretty straightforward.](../../../images/05-faceted-search-configuration.png)
 
 **Display Asset Type Facet:** Toggles whether the Asset Type facet appears. 
 

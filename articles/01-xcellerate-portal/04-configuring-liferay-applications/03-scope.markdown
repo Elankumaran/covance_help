@@ -48,7 +48,7 @@ with just a few simple steps.
 
 4.  Use the drop-down menu to set the scope.
 
-![Figure 4.9: You can change the scope of your portlet by navigating to its Configuration menu.](../../images/05-changing-portlet-scope.png)
+![Figure 4.9: You can change the scope of your portlet by navigating to its Configuration menu.](../../../images/05-changing-portlet-scope.png)
 
 That's all it takes to change the scope for a particular portlet instance. By
 setting the scope to the current page, you can add as many of these portlets to a

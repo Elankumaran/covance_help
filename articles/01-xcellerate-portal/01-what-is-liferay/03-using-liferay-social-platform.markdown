@@ -8,7 +8,7 @@ rounding things out with an API to handle relationships between users as well as
 publish their activities to each other, Liferay Portal helps you implement
 common features of social networks. 
 
-![Figure 1.8: Liferay Portal provides feeds of social activities. These feeds can contain entries from any of Liferay's built-in applications or applications that you write.](../../images/01-social-activities.png)
+![Figure 1.8: Liferay Portal provides feeds of social activities. These feeds can contain entries from any of Liferay's built-in applications or applications that you write.](../../../images/01-social-activities.png)
 
 Social relationships in Liferay Portal are ideally suited for everything from
 public social networks to enabling social features in your corporate Intranet.
@@ -23,7 +23,7 @@ applications. It fully supports the OpenSocial framework. You can publish
 gadgets you find online, or you can use Liferay Portal's built-in OpenSocial
 gadget editor to create and serve your own OpenSocial gadgets. 
 
-![Figure 1.9: Liferay Portal's OpenSocial gadget editor lets you rapidly create social applications that can be served across the web to any other OpenSocial container.](../../images/01-opensocial-gadget-editor.png)
+![Figure 1.9: Liferay Portal's OpenSocial gadget editor lets you rapidly create social applications that can be served across the web to any other OpenSocial container.](../../../images/01-opensocial-gadget-editor.png)
 
 Liferay Portal also supports the creation of Facebook applications; in fact, no
 additional coding is necessary to publish your Liferay applications on Facebook
@@ -31,7 +31,7 @@ additional coding is necessary to publish your Liferay applications on Facebook
 features like posting on users' timelines). All you need to do is get an API key
 and canvas page URL from Facebook. 
 
-![Figure 1.10: Any Liferay application can be published to multiple social networks with a few clicks.](../../images/01-facebook-integration.png)
+![Figure 1.10: Any Liferay application can be published to multiple social networks with a few clicks.](../../../images/01-facebook-integration.png)
 
 As you can see, Liferay Portal is built with social applications in mind. It's
 highly likely, however that you also have your own application you

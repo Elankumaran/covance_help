@@ -51,7 +51,7 @@ Liferay 6.2, install from Marketplace any of the plugins you had installed
 previously. For custom plugins, have your development team update them to run on
 the new version of Liferay. 
 
-![Figure 18.9: Use this flowchart to determine the steps to take for your upgrade.](../../images/upgrade-decisions.png)
+![Figure 18.9: Use this flowchart to determine the steps to take for your upgrade.](../../../images/upgrade-decisions.png)
 
 The flowchart illustrates the procedure described above. Use it to determine
 your course of action for the upgrade. Each step is described fully below so
@@ -69,7 +69,7 @@ were removed in 6.1, which means you must migrate *before* you upgrade.
 
 ---
 
- ![Tip](../../images/tip.png) **Important**: Before upgrading a Liferay instance
+ ![Tip](../../../images/tip.png) **Important**: Before upgrading a Liferay instance
  that's using one of permissions algorithms 1-5, you *must* migrate to
  permissions algorithm 6 before attempting to upgrade to Liferay 6.2. You can't
  use the seamless upgrade feature to upgrade directly to 6.2 because Liferay's
@@ -103,7 +103,7 @@ Next, log in as an administrator and navigate to the Control Panel. Go to
 of the screen. A section entitled *Legacy Permissions Migration* appears at the
 bottom of the page.
 
-![Figure 18.10: Update your permissions algorithm by clicking the *Execute* button.](../../images/17-convert-permissions-algorithm.png)
+![Figure 18.10: Update your permissions algorithm by clicking the *Execute* button.](../../../images/17-convert-permissions-algorithm.png)
 
 Algorithms 5 and 6 do not support adding permissions at the user level. If you
 have permissions set for individual users, the converter can simulate this for

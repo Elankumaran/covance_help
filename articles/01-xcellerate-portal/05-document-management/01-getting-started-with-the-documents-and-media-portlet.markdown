@@ -11,7 +11,7 @@ have their own personal sites with public and private pages. They can use their
 personal sites to host Documents and Media portlets for storing or sharing their
 own files.
 
-![Figure 5.1: The Documents and Media portlet offers a plethora of options to choose from.](../../images/05-document-library.png)
+![Figure 5.1: The Documents and Media portlet offers a plethora of options to choose from.](../../../images/05-document-library.png)
 
 The Documents and Media portlet's default view displays the contents of the
 *Home* folder. The links on the left side of the portlet windows are filters.
@@ -62,7 +62,7 @@ Media library.
 If comments are enabled, you can also view comments, add comments, or subscribe
 to comments about documents. Comments are enabled by default.
 
-![Figure 5.2: You can click an asset in the Documents and Media portlet to view its options and properties.](../../images/05-doclib-document-view.png)
+![Figure 5.2: You can click an asset in the Documents and Media portlet to view its options and properties.](../../../images/05-doclib-document-view.png)
 
 The menu at the top of the Documents and Media portlet contains Actions, Add,
 Sort By and Manage buttons. There are also buttons for switching between icon

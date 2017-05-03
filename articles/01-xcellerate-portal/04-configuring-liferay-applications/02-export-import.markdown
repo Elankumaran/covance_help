@@ -13,7 +13,7 @@ See the Backing up and Restoring Pages section of chapter 2 for a discussion of
 exporting and importing data across an entire site. Let's explore the export
 process first.
 
-![Figure 4.7: When exporting portlet data, you can choose what content to include.](../../images/portlet-export.png)
+![Figure 4.7: When exporting portlet data, you can choose what content to include.](../../../images/portlet-export.png)
 
 First, you can select a *Date Range* of content that you'd like to export.
 Content that has been added to your portlet within your specified date range is
@@ -38,7 +38,7 @@ portlet's permissions but not the permissions assigned to roles. After you've
 exported your portlet's data, switch to the *Current and Previous* tab to view
 ongoing export processes and the history of past exports.
 
-![Figure 4.8: When importing portlet data, you can choose a LAR file using the file explorer or drag and drop the file between the dotted lines.](../../images/portlet-import.png)
+![Figure 4.8: When importing portlet data, you can choose a LAR file using the file explorer or drag and drop the file between the dotted lines.](../../../images/portlet-import.png)
 
 To import portlet data, you can select the LAR using your file explorer or by
 dragging and dropping the file between the dotted lines. After selecting the LAR

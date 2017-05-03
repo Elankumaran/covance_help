@@ -85,7 +85,7 @@ information. Sync needs to know where you'd like to locally store the files it's
 supposed to sync with your Liferay server. And, of course, it needs to know your
 server's URL and the account credentials with which it should authenticate.
 
-![Figure 5.14: The first time you run Liferay Sync, you'll have to tell it how to communicate with your Liferay server.](../../images/liferay-sync-new-account-info.png)
+![Figure 5.14: The first time you run Liferay Sync, you'll have to tell it how to communicate with your Liferay server.](../../../images/liferay-sync-new-account-info.png)
 
 The options for the Mac OS application installer are similar.
 
@@ -96,7 +96,7 @@ it as a disk image, and opens a window showing the contents of the image. To
 install Sync, drag the Liferay Sync icon to the Applications folder. Once it's
 installed, go to your Applications folder to run it.
 
-![Figure 5.15: Drag the Liferay Sync icon to the Applications folder.](../../images/liferay-sync-mac-install.png)
+![Figure 5.15: Drag the Liferay Sync icon to the Applications folder.](../../../images/liferay-sync-mac-install.png)
 
 When you launch Liferay Sync, the first thing you need to do is provide it with
 the URL for the Liferay server that you'll be using Sync with, along with your
@@ -140,7 +140,7 @@ and Media repositories of all the other sites you belong to.
 
 ---
 
-![Tip](../../images/tip.png) Note for administrators: If you don't have a
+![Tip](../../../images/tip.png) Note for administrators: If you don't have a
 Documents and Media portlet anywhere on a site that's been selected for syncing,
 you'll have to add the portlet. Otherwise, users will get a *The requested
 resource was not found* error when they try to use the *Open Website* link from
@@ -157,7 +157,7 @@ the account information you provided when you started Sync for the first time.
 For example, you can enter a new URL for your Liferay server and enter a
 different set of Liferay credentials.
 
-![Figure 5.16: Open the Liferay Sync menu and select *Properties* (*Preferences*, on Mac OS) to edit the settings you configured during setup.](../../images/liferay-sync-properties.png)
+![Figure 5.16: Open the Liferay Sync menu and select *Properties* (*Preferences*, on Mac OS) to edit the settings you configured during setup.](../../../images/liferay-sync-properties.png)
 
 There are three items listed in the *General Settings* section. *Start Liferay
 Sync on Login* is checked by default. If you don't want Sync to start
@@ -229,7 +229,7 @@ again, and then go back to your browser and refresh your Documents and Media
 page. Click on the *README.txt* icon, look at the information displayed to the
 right, and you'll see that its version number has incremented.
 
-![Figure 5.17: Updating a file through Liferay Sync increments the file's version number. You can view a file's version number through the web interface.](../../images/liferay-sync-README.png)
+![Figure 5.17: Updating a file through Liferay Sync increments the file's version number. You can view a file's version number through the web interface.](../../../images/liferay-sync-README.png)
 
 <!-- Needs to be updated for 6.2
 Current versions of Liferay Sync are unable to connect to new 6.2 Liferay Portal
@@ -287,7 +287,7 @@ set up the app. This screen appears whenever preferences are missing. Touch the
 screen and it displays the *Settings* view. You can always go back to *Settings*
 by clicking on the wrench icon at the top right corner of the screen.
 
-![Figure 5.18: Click the wrench icon to access your Liferay server credentials.](../../images/liferay-sync-android-settings.png)
+![Figure 5.18: Click the wrench icon to access your Liferay server credentials.](../../../images/liferay-sync-android-settings.png)
 
 Enter your Liferay server credentials by filling in your *Login*, *Password*,
 and *Server* information. Your *Login* is either your user account's email
@@ -302,7 +302,7 @@ includes options to refresh, open the settings menu, upload files, take photos,
 test your connection, etc. After you have successfully tested your connection,
 hit the *back* button and you'll see a list of Liferay sites you have access to.
 
-![Figure 5.19: Sites](../../images/liferay-sync-android-sites.png)
+![Figure 5.19: Sites](../../../images/liferay-sync-android-sites.png)
 
 You can browse the files of a site by tapping on any of them. This opens a list
 of the folders and files belonging to the site that you have permission to view.
@@ -336,7 +336,7 @@ Clicking on *View Details* (Gingerbread) or the round icon with the letter "i"
 (Ice Cream Sandwich) opens the details view, which displays the entry's metadata
 such as creation date, author, version, description, etc.:
 
-![Figure 5.20: Liferay Sync's details view offers several options.](../../images/liferay-sync-android-details.png)
+![Figure 5.20: Liferay Sync's details view offers several options.](../../../images/liferay-sync-android-details.png)
 
 If you click on *Download* (floppy disk icon on Ice Cream Sandwich), it
 downloads and overwrites the local file copy.
@@ -354,7 +354,7 @@ users need to click on the device menu button). Depending on the device screen
 width, some icons may overflow to the three dots button on the right. Click on
 this button to see all of the available actions.
 
-![Figure 5.21: More options are available by selecting the three dots button.](../../images/liferay-sync-android-more.png)
+![Figure 5.21: More options are available by selecting the three dots button.](../../../images/liferay-sync-android-more.png)
 
 The *Refresh* button fetches and updates the list of folders and files that have
 been changed in the portal.
@@ -399,7 +399,7 @@ toolbar section and you'll see a list of Liferay sites you have access to. You
 can browse the files of a site by tapping on its name or icon. This opens a list
 of the folders and files belonging to the site that you have permission to view.
 
-![Figure 5.22: Liferay Sync offers a folder and files menu.](../../images/liferay-sync-ios-files-list.png)
+![Figure 5.22: Liferay Sync offers a folder and files menu.](../../../images/liferay-sync-ios-files-list.png)
 
 From here, you can click on a folder to browse deeper into the folder hierarchy.
 You can also click on the *Back* button to navigate back to parent folders up to
@@ -413,7 +413,7 @@ and, if a previewer for this file type is available, you can view the contents
 of the file. The next time you open a file, it won't download it again; instead,
 it opens the local copy.
 
-![Figure 5.23: Local files are stored after they are downloaded.](../../images/liferay-sync-ios-open.png)
+![Figure 5.23: Local files are stored after they are downloaded.](../../../images/liferay-sync-ios-open.png)
 
 There are 3 icons at the bottom of the screen when you open a file:
 
@@ -433,7 +433,7 @@ social apps and messengers if they are available.f
 In the file list, there's an Edit button. Clicking on it switches the app to
 the edit mode as shown below:
 
-![Figure 5.24: Edit mode is a key feature in Liferay Sync mobile.](../../images/liferay-sync-ios-edit.png)
+![Figure 5.24: Edit mode is a key feature in Liferay Sync mobile.](../../../images/liferay-sync-ios-edit.png)
 
 Selecting one or more files or folders and clicking on the *Delete* button
 deletes the selected files or folders from the remote portal. Once you delete

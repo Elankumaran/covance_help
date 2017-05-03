@@ -19,7 +19,7 @@ properties to your `portal-ext.properties` file:
     
 ---
 
- ![Tip](../../images/tip.png) Note that the public and private page sets of
+ ![Tip](../../../images/tip.png) Note that the public and private page sets of
  personal sites are handled separately. You can leave one page set enabled while
  disabling the other.
 
@@ -53,7 +53,7 @@ this file here: [http://docs.liferay.com/portal/6.2/propertiesdoc/portal.propert
 
 ---
 
- ![Tip](../../images/tip.png) Prior to Liferay 6.1, administrators could
+ ![Tip](../../../images/tip.png) Prior to Liferay 6.1, administrators could
  disallow users from being able to modify the pages and portlets of their
  personal sites by setting the following properties:
 

@@ -26,7 +26,7 @@ screen, then click on *Site Settings*. Click on *Analytics* and you'll see a
 very simple form, pictured below. 
 
 ![Figure 18.6: Setting up Google Analytics for your site is very easy: sign up for Google Analytics, receive an ID, and then enter it into the Google Analytics ID field.
-](../../images/maintaining-google-analytics.png)
+](../../../images/maintaining-google-analytics.png)
 
 Enter your Google Analytics ID (which should have been provided to you when you
 signed up for the service) in the field and click *Save*. All the pages in the

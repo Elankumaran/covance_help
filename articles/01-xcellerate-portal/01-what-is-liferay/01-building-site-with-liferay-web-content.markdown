@@ -4,7 +4,7 @@ When you log into Liferay and look at its default screen, one thing should jump
 out at you right away: it's built for all clients that access the web, not just
 desktop browsers. 
 
-![Figure 1.1: When designing pages, Liferay includes a preview that lets you see how it would look when displayed at resolutions for computers, tablets, and phones.](../../images/01-preview.png)
+![Figure 1.1: When designing pages, Liferay includes a preview that lets you see how it would look when displayed at resolutions for computers, tablets, and phones.](../../../images/01-preview.png)
 
 Another thing to notice is that all the page controls are right there for you.
 For example, to add something, you click the *+* button, and then
@@ -26,7 +26,7 @@ By default, Liferay Portal starts with a single site that has a single page. You
 can build any website you wish out of this, complete with multi-nested page
 hierarchies, as the figure below shows. 
 
-![Figure 1.2: Liferay's page hierarchies are easy to create, using a tree structure that's familiar to anyone who has used a file manager.](../../images/01-page-hierarchy.png)
+![Figure 1.2: Liferay's page hierarchies are easy to create, using a tree structure that's familiar to anyone who has used a file manager.](../../../images/01-page-hierarchy.png)
 
 These pages can have any layout you like: Liferay Portal ships with several
 built-in, and you can create your own custom layouts and deploy them easily.
@@ -55,7 +55,7 @@ server, where all web content work happens on a separate server from your live
 site. In either case, when you're ready, site changes can be pushed to the live
 site, either manually or on a schedule. 
 
-![Figure 1.3: Staging supports publishing manually or on a schedule.](../../images/web-content-staging-publish.png)
+![Figure 1.3: Staging supports publishing manually or on a schedule.](../../../images/web-content-staging-publish.png)
 
 Liferay Portal's web content creation tools are easy and intuitive to use at all
 levels. If you need only basic content management capabilities for your site,
@@ -70,7 +70,7 @@ capture all the information from your writers that you'd need in an article. The
 figure below shows what this structure might look like to a journalist who'd be
 entering his or her article into the system. 
 
-![Figure 1.4: Structures allow you to specify exactly the type of data that makes up your content. You can also include tooltips to help your users understand what each field is for.](../../images/01-content-structure.png)
+![Figure 1.4: Structures allow you to specify exactly the type of data that makes up your content. You can also include tooltips to help your users understand what each field is for.](../../../images/01-content-structure.png)
 
 As you can see, you can use structures to make sure writers provide the title of
 the story, what type of story it will be, and the byline (i.e., the writer's
@@ -117,7 +117,7 @@ the Site Administration page or can be added to any page, and, as shown below,
 looks very much like the file manager that you're already familiar with from
 your operating system. 
 
-![Figure 1.5: Liferay Portal's Documents and Media library was purposefully designed to be familiar to anyone who uses a computer.](../../images/01-docs-and-media.png)
+![Figure 1.5: Liferay Portal's Documents and Media library was purposefully designed to be familiar to anyone who uses a computer.](../../../images/01-docs-and-media.png)
 
 Like a file manager, you can browse files and folders in nested hierarchies. You
 can also mount other repositories that you might have in your environment, such

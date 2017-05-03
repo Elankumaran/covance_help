@@ -9,7 +9,7 @@ form for creating or editing an asset, you'll find an interface for adding tags
 and categories. If no categories are available to be added to the asset (e.g.,
 if no categories have been created), the Categories heading won't appear.
 
-![Figure 6.1: Here, the Web Content Display portlet's form for categorizing a new web content instance doesn't include a Categories heading since no categories have been created.](../../images/04-web-content-categorization.png)
+![Figure 6.1: Here, the Web Content Display portlet's form for categorizing a new web content instance doesn't include a Categories heading since no categories have been created.](../../../images/04-web-content-categorization.png)
 
 The Control Panel contains an interface for managing tags and categories for
 each site in the portal. This interface can be used to manage all your tags and
@@ -54,7 +54,7 @@ add information to specific tags. You can think of tag properties as tags for
 your tags. Structurally, tag properties are key-value pairs associated with 
 specific tags that provide information about the tags.
 
-![Figure 6.2: The Add Tag interface with editing of tag properties and permissions enabled. When managing a site's content, click on *Tags* and then *Add Tag* to create a new tag. The Add Tag interface allows you to enter a name for the tag, define permissions for the tag, and add properties to the tag.](../../images/05-add-tag.png)
+![Figure 6.2: The Add Tag interface with editing of tag properties and permissions enabled. When managing a site's content, click on *Tags* and then *Add Tag* to create a new tag. The Add Tag interface allows you to enter a name for the tag, define permissions for the tag, and add properties to the tag.](../../../images/05-add-tag.png)
 
 Tags are not the only portal-wide mechanism for describing content: you can also
 use categories.
@@ -75,7 +75,7 @@ which you want to create categories and then click on *Admin* &rarr; *Content*.
 Then click on *Categories* in the Content section on the left to view the
 categories administration portlet.
 
-![Figure 6.3: When managing a site's content, click on *Categories* and then on *Add Vocabulary* to create a new vocabulary. By default, a vocabulary called *Topic* already exists. When adding new categories, make sure you're adding them to the correct vocabulary.](../../images/add-category.png)
+![Figure 6.3: When managing a site's content, click on *Categories* and then on *Add Vocabulary* to create a new vocabulary. By default, a vocabulary called *Topic* already exists. When adding new categories, make sure you're adding them to the correct vocabulary.](../../../images/add-category.png)
 
 Clicking on a vocabulary on the left displays any categories that have been
 created under that vocabulary. To create a new vocabulary, click on the *Add
@@ -139,7 +139,7 @@ configure these settings, go to the categories administration portlet in the
 Control Panel and mouse over the vocabulary in the list until you see the edit
 icon to the right. Select the icon to reveal a dialog box like the one below.
 
-![Figure 6.4: You can target vocabularies by checking the *Allow Multiple Categories* checkbox and then selecting the Asset Types.](../../images/targeted-vocabularies.png)
+![Figure 6.4: You can target vocabularies by checking the *Allow Multiple Categories* checkbox and then selecting the Asset Types.](../../../images/targeted-vocabularies.png)
 
 The default value for *Associated Asset Types* is *All Asset Types*. You can
 fine tune your choices by using the *+* and *-* buttons, which narrows the scope
@@ -155,7 +155,7 @@ vocabulary to apply to an asset. If a vocabulary is single-valued you can only
 choose one. If it allows more, you can choose several categories from the
 vocabulary to apply to an asset.
 
-![Figure 6.5: Multi-valued vocabularies allow multiple categories from the vocabulary to be applied to an asset. Single-valued vocabularies only allow one category from the vocabulary to be applied. Here, the *Cinema* and *Music* categories are selected to be applied but the *Sports* category is not.](../../images/multi-valued-vocabularies.png)
+![Figure 6.5: Multi-valued vocabularies allow multiple categories from the vocabulary to be applied to an asset. Single-valued vocabularies only allow one category from the vocabulary to be applied. Here, the *Cinema* and *Music* categories are selected to be applied but the *Sports* category is not.](../../../images/multi-valued-vocabularies.png)
 
 You can configure the single-valued or multi-valued status of a vocabulary
 through the categories administration portlet. Edit a vocabulary and deselect
@@ -169,7 +169,7 @@ own separated widget. These widgets appear in the Categorization section of the
 form for editing an asset and they allow users to easily select appropriate
 categories for that asset.
 
-![Figure 6.6: Vocabularies have their own widgets, making it easy to select available categories.](../../images/separated-widgets.png)
+![Figure 6.6: Vocabularies have their own widgets, making it easy to select available categories.](../../../images/separated-widgets.png)
 
 It's important to use tags and categories with all your content, so that content
 is easier for users to find. Let's look at one of the ways users will make use

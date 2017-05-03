@@ -35,7 +35,7 @@ hosts portlets that are consumed by other portal servers (Liferay or
 non-Liferay) acting as WSRP consumers. The image below illustrates WSRP
 producers and consumers and how they interact.
 
-![Figure 18.24: Portlets can interact with other portlets located on a different portal server using WSRP.](../../images/wsrp-illustration.png)
+![Figure 18.24: Portlets can interact with other portlets located on a different portal server using WSRP.](../../../images/wsrp-illustration.png)
 
 As we mentioned in the previous chapter, there are two main components of the
 WSRP process: producers and consumers. Let's go through the basic process of how
@@ -68,7 +68,7 @@ servers.
 
 ---
 
- ![Tip](../../images/tip.png) **Tip**: If you're following along with this
+ ![Tip](../../../images/tip.png) **Tip**: If you're following along with this
  example and don't have an additional portal server, you can download another
  instance of Liferay Portal and have it running at the same time as your current
  Liferay instance to simulate an additional portal server. Remember, typical use
@@ -90,7 +90,7 @@ purposes, select the Hello World portlet and click the *Save* button. The portal
 generates a WSDL document to define your producer. To view the WSDL document,
 click the URL link provided.
 
-![Figure 18.25: You can view the WSDL document for your producer by clicking the provided URL.](../../images/wsdl-url.png)
+![Figure 18.25: You can view the WSDL document for your producer by clicking the provided URL.](../../../images/wsdl-url.png)
 
 Now that we've created a producer, let's create a consumer on your second portal
 server. 

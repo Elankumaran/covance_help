@@ -12,7 +12,7 @@ These applications range from personal productivity applications like a calendar
 and email, to community-building applications like message boards, polls, and
 wikis. 
 
-![Figure 1.6: Liferay Portal's message boards are as fully featured as any standalone forum application, with the added benefit that they're integrated with the rest of the system.](../../images/01-message-boards.png)
+![Figure 1.6: Liferay Portal's message boards are as fully featured as any standalone forum application, with the added benefit that they're integrated with the rest of the system.](../../../images/01-message-boards.png)
 
 This is a suite of integrated applications with all the features of similar,
 standalone applications. For example, Liferay Portal's message boards include
@@ -38,7 +38,7 @@ content and documents--is the Recycle Bin. If users delete content that needs to
 be restored later, you don't have to find it in your backups: it's in the
 Recycle Bin. 
 
-![Figure 1.7: The Recycle Bin can hold any kind of content.](../../images/recycle-bin-overview.png)
+![Figure 1.7: The Recycle Bin can hold any kind of content.](../../../images/recycle-bin-overview.png)
 
 We could go through all of Liferay Portal's collaborative applications, but
 let's save that for the body of the book. Liferay Portal's suite of

@@ -1,6 +1,6 @@
 # Kaleo Forms: Defining Business Processes [](id=kaleo-forms-defining-business-processes)
 
-![EE Only Feature](../../images/ee-feature-web.png)
+![EE Only Feature](../../../images/ee-feature-web.png)
 
 In the last chapter, you saw the elements that comprise a workflow
 definition and learned how to create a workflow definition. In this chapter,

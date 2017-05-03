@@ -63,7 +63,7 @@ can be organized hierarchically, so can the pages within a site. The display
 depth of the Site Map portlet determines how many levels of nested pages to
 display.
 
-![Figure 2.3: The Site Directory portlet can allow users to navigate between sites organized hierarchically. The Site Map portlet can allow users to navigate among pages of site organized hierarchically.](../../images/site-directory-site-map.png)
+![Figure 2.3: The Site Directory portlet can allow users to navigate between sites organized hierarchically. The Site Map portlet can allow users to navigate among pages of site organized hierarchically.](../../../images/site-directory-site-map.png)
 
 Liferay's sites have two categories of pages called page sets. There are two
 kinds of page sets: public pages and private pages. A site can have only public
@@ -85,7 +85,7 @@ member of the portal can access it.
 
 ---
 
- ![Tip](../../images/01-tip.png) **Tip:** Prior to Liferay 6.1, there were two
+ ![Tip](../../../images/01-tip.png) **Tip:** Prior to Liferay 6.1, there were two
  ways of creating sites: organizations and communities. This has been simplified
  to provide more ease of use and allow for more flexibility. The main role of
  organizations is still to organize the users of the portal in a hierarchy but
@@ -122,7 +122,7 @@ chapters 14, 16, and 17 of this guide.
 
 ---
 
- ![Tip](../../images/01-tip.png) **Tip:** Prior to Liferay 6.2, the Control Panel
+ ![Tip](../../../images/01-tip.png) **Tip:** Prior to Liferay 6.2, the Control Panel
  included interfaces both for site administration and for portal administration.
  In Liferay 6.2, these interfaces have been separated. If you're signed in as an
  administrator, you can access the Liferay 6.2 Control Panel by clicking *Admin*
@@ -145,7 +145,7 @@ templates are created, they will appear in the Add menu as they become
 available. The following figure shows the form that needs to be filled when
 creating a *Blank Site*.
 
-![Figure 2.4: The New Site window aids in your new site development.](../../images/01-add-site-screen.png)
+![Figure 2.4: The New Site window aids in your new site development.](../../../images/01-add-site-screen.png)
 
 **Name:** is the name of the site you wish to create.
 
@@ -176,7 +176,7 @@ organization site by navigating to its *Site Settings* menu.
 
 ---
 
- ![Tip](../../images/01-tip.png) It's possible for site memberships to be
+ ![Tip](../../../images/01-tip.png) It's possible for site memberships to be
  handled automatically by a membership policy. The membership policy can check
  various pieces of information from each user, such as their first names, last
  names, birthdays, job titles, organizations, and user groups. Using this
@@ -239,7 +239,7 @@ you're on the Site Administration page, select *Site Pages* (if necessary) under
 the Pages tab from the left panel. You can also use the *Pages* shortcut which
 is also listed under the Admin tab.
 
-![Figure 2.5: The *Site Pages* interface allows you to edit your site pages as a whole.](../../images/04-managing-site-pages.png)
+![Figure 2.5: The *Site Pages* interface allows you to edit your site pages as a whole.](../../../images/04-managing-site-pages.png)
 
 To add new pages to your site, click the *Add* icon from the left palette and
 select the *Page* tab. This is the *Page* interface, which offers a plethora of
@@ -249,7 +249,7 @@ To manage the specific page of the site you've navigated to, click the *Edit*
 icon from the left palette. This will only edit the specific page you're
 currently on.
 
-![Figure 2.6: The *Edit Page* interface allows you to edit the current page you're on.](../../images/04-web-content-managing-single-page.png)
+![Figure 2.6: The *Edit Page* interface allows you to edit the current page you're on.](../../../images/04-web-content-managing-single-page.png)
 
 *Site Pages* is an interface to view existing pages, create new pages, view
 pages and export or import pages using Liferay Archive (LAR) files. Note that
@@ -283,7 +283,7 @@ and drop them in the list to put them in whatever order you want. Let's go ahead
 and add another top level page and name it *Community*. We'll use this page for
 the Recent Bloggers and Wiki portlets.
 
-![Figure 2.7: You can add a page to your site by giving it a name, page template, and page type.](../../images/04-web-content-add-page.png)
+![Figure 2.7: You can add a page to your site by giving it a name, page template, and page type.](../../../images/04-web-content-add-page.png)
 
 When you create a new page, you can create either a blank page or a page
 prepopulated with portlets from a page template. When you're entering the name
@@ -377,7 +377,7 @@ category name collision, Liferay renames the imported categories.
 
 ---
 
- ![Note](../../images/01-tip.png) **Note:** LAR files are version dependent. You
+ ![Note](../../../images/01-tip.png) **Note:** LAR files are version dependent. You
  can't import a LAR file that was exported from one version of Liferay into
  a Liferay server that's running a different version of Liferay. Also,
  note that periodically exporting LARs is *not* a complete backup solution;
@@ -413,7 +413,7 @@ of the portal. They are created by developers and are easily installed using the
 Liferay Marketplace. Since we don't have any themes beyond the default one
 installed yet, we'll use the default theme for our pages.
 
-![Figure 2.8: The Look and Feel interface allows you to choose a theme for the current site.](../../images/04-look-and-feel.png)
+![Figure 2.8: The Look and Feel interface allows you to choose a theme for the current site.](../../../images/04-look-and-feel.png)
 
 Many themes include more than one color scheme. This allows you to keep the
 existing look and feel while giving your site a different flavor. Change the
@@ -550,7 +550,7 @@ tabs of the Manage Site Settings dialog box (see below).
 
 ---
 
- ![Tip](../../images/01-tip.png) In previous versions of Liferay, it was
+ ![Tip](../../../images/01-tip.png) In previous versions of Liferay, it was
  possible that a single page could be indexed multiple times. In Liferay 6.1,
  all URLs that direct to the same page will only create one entry in the index.
  Previously, the simple URL
@@ -601,7 +601,7 @@ page.
 
 ---
 
- ![Tip](../../images/01-tip.png) Usually, you don't want the web content display
+ ![Tip](../../../images/01-tip.png) Usually, you don't want the web content display
  portlet that you're using to embed a portlet to be visible. To make the web
  content display portlet invisible, click on the gear icon of the web content
  display portlet, select *Look and Feel*, set *Show Borders* to *No*, and click
@@ -650,7 +650,7 @@ on any page. When users customize a page, they have the option to use either
 their version or the default version of a page. Users can't see alternate
 versions of pages other than their own.
 
-![Figure 2.9: During page customization, individual columns change colors to indicate whether they are selected or not.](../../images/04-web-content-personal-customization.png)
+![Figure 2.9: During page customization, individual columns change colors to indicate whether they are selected or not.](../../../images/04-web-content-personal-customization.png)
 
 To activate page customizations, click the *Edit Page* button from the left
 palette and select the *Customization Settings* tab. Then select *Show
@@ -675,7 +675,7 @@ Administration and clicking *Site Settings* from the Configuration section on
 the left panel. You can also select the Site Administration sub-tab
 *Configuration* from the *Admin* drop-down.
 
-![Figure 2.10: The Site Settings window offers a plethora of options for your site.](../../images/web-content-site-settings.png)
+![Figure 2.10: The Site Settings window offers a plethora of options for your site.](../../../images/web-content-site-settings.png)
 
 You'll find options to specify details and metadata about your site, set up
 friendly URLs and virtual hosts, configure search engine optimization settings,
@@ -833,13 +833,13 @@ it on the *Admin* &rarr; *Site Administration* page. From Site Administration,
 you'll notice the Content heading where all your portal's content can be
 managed, including web content. 
 
-![Figure 2.11: Your site's content resides on the Site Administration page.](../../images/web-content-site-content.png)
+![Figure 2.11: Your site's content resides on the Site Administration page.](../../../images/web-content-site-content.png)
 
 For details about Liferay's social collaboration suite, see chapter 10.
 
 ---
 
- ![Tip](../../images/01-tip.png) **Note:** The *Web Content List* and *Recent
+ ![Tip](../../../images/01-tip.png) **Note:** The *Web Content List* and *Recent
  Content* plugins were deprecated in Liferay 6.2 and are disabled by default. To
  activate a disabled plugin, navigate to the Control Panel &rarr; *Plugins
  Configuration* and scroll through the list of portlets until you find the
@@ -915,7 +915,7 @@ Collaboration page of the Lunar Resort site.
 See how easy it is to add applications to your pages? We've added the Wiki
 portlet and Blogs Aggregator portlet to the Community page. 
 
-![Figure 2.12: Yeah, we're showoffs. But as you can see, your page layout options are virtually limitless.](../../images/04-web-content-portlet-layout.png)
+![Figure 2.12: Yeah, we're showoffs. But as you can see, your page layout options are virtually limitless.](../../../images/04-web-content-portlet-layout.png)
 
 It's easy to make your pages look exactly the way you want them to. If the
 default layout options provided aren't enough, you can even develop your own.
@@ -945,7 +945,7 @@ this with the following procedure:
    role.
 7. Click the *Save* button.
 
-![Figure 2.13: The Permissions offer a plethora of options for each role.](../../images/04-web-content-page-permissions.png)
+![Figure 2.13: The Permissions offer a plethora of options for each role.](../../../images/04-web-content-page-permissions.png)
 
 Congratulations! You've just changed the permissions for this page so only site
 administrators can view it. Any users you add to this role can now see the page.
